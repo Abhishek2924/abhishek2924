@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img aline="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img aline="right" alt="coding" widht="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek2924&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek2924" /> </p>
